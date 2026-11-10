@@ -1,4 +1,4 @@
-Superstore Sales Analysis Dashboard
+#Superstore Sales Analysis Dashboard
 Project Overview
 This project presents an interactive business dashboard created in
 Microsoft Power BI using the Kaggle Superstore Sales dataset. The
